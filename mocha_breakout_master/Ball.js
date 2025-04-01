@@ -24,6 +24,11 @@ class Ball{
 	bounceX(){
 			this.xSpeed = -this.xSpeed;	
 	}
+
+	bounceZ(){
+
+	//test 
+	}
 	
 	
 
